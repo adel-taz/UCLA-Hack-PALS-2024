@@ -1,0 +1,7 @@
+ssid="HAcK-Project-WiFi-2"
+# password="UCLA.HAcK.2024.Summer"
+# ssid="HAck-Project-WiFi-1"
+password="UCLA.HAcK.2024.Summer"
+mqtt_server="e859a7037ec941b39ff56de91021e1c8.s1.eu.hivemq.cloud"
+mqtt_user="Oscar_chen"
+mqtt_pass="Os12345678"
