@@ -1,0 +1,18 @@
+.log-container {
+    border-radius: 5px;
+    margin: 10px 0;
+    color: #111; 
+    padding: 10px 80px 20px 80px;
+
+}
+
+.log-text {
+    margin-bottom: 0;
+}
+
+.log-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin-bottom: 10px;
+    color: #333; /* Change this color as needed */
+}
